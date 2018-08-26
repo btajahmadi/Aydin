@@ -1,0 +1,1 @@
+var aydin = 6;
